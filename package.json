@@ -1,0 +1,20 @@
+{
+  "name": "@kdbvier/vier-sdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://kdbvier: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@github.com/kdbvier/vier-sdk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kdbvier/vier-sdk/issues"
+  },
+  "homepage": "https://github.com/kdbvier/vier-sdk#readme"
+}
